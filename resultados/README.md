@@ -5,3 +5,9 @@
 
 # docker compose up -d
 ![alt text](image.png)
+
+```
+bash
+grep -r --color=auto "flag" / 2>/dev/null
+```
+![alt text](image-1.png)
